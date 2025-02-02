@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="left">Lets get to know more!</h2>
+<h2 align="left">Let's get to know more!</h2>
 
 ###
 
