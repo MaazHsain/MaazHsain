@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">❤️ Passionate about Data Engineering and Data Science<br>🚀 Seeking 2025 Full-Time Opportunities in Data Engineering, Analytics, and Software Engineering<br>🎗  A BSc (Honours) Computer Science student with specialisation in Machine Learning and Artificial Intelligence<br>🎓 Will be graduating in April 2025<br>💻 Have a look at my projects: https://maazhsain.github.io/portfolio/</p>
+<p align="left">❤️ Passionate about Data Engineering and Data Science<br>🚀 Seeking 2025 Full-Time Opportunities in Data Engineering, Analytics, and Software Engineering<br>🎗  A BSc (Honours) Computer Science student with specialisation in Machine Learning and Artificial Intelligence<br>🎓 Will be graduating in April 2025<br>💻 Have a look at my projects by visiting my <a href="https://maazhsain.github.io/portfolio/" target="_blank">portfolio</a></p>
 
 ###
 
