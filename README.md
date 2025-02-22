@@ -1,8 +1,8 @@
-<h1 align="left">Hello World!👋 I'm Maaz, a Data Science & Software Engineering Enthusiast 😄</h1>
+<h1 align="left">Hello World!👋 I'm Maaz, a confident and dedicated coder 😄</h1>
 
 ###
 
-<p align="left">❤️ Passionate about creating innovative solutions via coding<br>🚀 Seeking 2025 Full-Time Opportunities in Data Engineering, Analytics, and Software Engineering<br>🎗  A BSc (Honours) Computer Science student with specialisation in Machine Learning and Artificial Intelligence<br>🎓 Will be graduating in April 2025<br>💻 Have a look at my projects by visiting my <a href="https://maazhsain.github.io/portfolio/" target="_blank">portfolio</a></p>
+<p align="left">❤️ Passion to craft efficient, user-friendly applications and continuously improving coding expertise, while designing scalable and efficient data architectures that support business intelligence<br>🚀 Seeking 2025 Full-Time/Internship opportunities<br>🎗 BSc (Honours) Computer Science student with specialization in Machine Learning and Artificial Intelligence<br>🎓 Expecting graduation in April 2025 (Successfully completed my studies)<br>💻 Take a look at my projects by visiting my <a href="https://maazhsain.github.io/portfolio/" target="_blank">portfolio</a></p>
 
 ###
 
