@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">❤️ Passion to craft efficient, user-friendly applications and continuously improving coding expertise, while designing scalable and efficient data architectures that support business intelligence<br>🚀 Seeking 2025 Full-Time/Internship opportunities<br>🎗 BSc (Honours) Computer Science student with specialization in Machine Learning and Artificial Intelligence<br>🎓 Expecting graduation in April 2025 (Successfully completed my studies)<br>💻 Take a look at my projects by visiting my <a href="https://maazhsain.github.io/portfolio/" target="_blank">portfolio</a></p>
+<p align="left">❤️ Deeply passionate and curious about building intuitive, efficient applications and leveraging data to uncover meaningful insights. Always eager to learn, improve, and take on new challenges with a positive attitude 😊.<br>🚀 Seeking 2025 Full-Time/Internship opportunities to grow as a developer and collaborate on impactful projects.<br>🎗 BSc (Honours) Computer Science student specializing in Machine Learning & AI.<br>🎓 Graduating in April 2025, excited to apply what I’ve learned and keep expanding my skills.<br>💻 Check out my projects on my <a href="https://maazhsain.github.io/portfolio/" target="_blank">portfolio</a>—I’d love to hear your thoughts! 🥹</p>
 
 ###
 
