@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">❤️ Deeply passionate and curious about building intuitive, efficient applications and leveraging data to uncover meaningful insights.<br/>🫡 Always eager to learn, improve, and take on new challenges with a positive attitude 😊.<br>🚀 Seeking 2025 Full-Time/Internship opportunities to grow as a developer and collaborate on impactful projects.<br>🎗 BSc (Honours) Computer Science student specializing in Machine Learning & AI.<br>🎓 Graduating in April 2025, excited to apply what I’ve learned and keep expanding my skills.<br>💻 Check out my <a href="https://my-portfolio-ygab38opi-maazhsains-projects.vercel.app/" target="_blank">portfolio</a>—I’d love to hear your thoughts! 🥹</p>
+<p align="left">❤️ Deeply passionate and curious about building intuitive, efficient applications and leveraging data to uncover meaningful insights.<br/>🫡 Always eager to learn, improve, and take on new challenges with a positive attitude 😊.<br>🚀 Seeking 2025 Full-Time/Internship opportunities to grow as a developer and collaborate on impactful projects.<br>🎗 BSc (Honours) Computer Science student specializing in Machine Learning & AI.<br>🎓 Graduating in April 2025, excited to apply what I’ve learned and keep expanding my skills.<br>💻 Check out my <a href="https://my-portfolio-maazhsains-projects.vercel.app/" target="_blank">portfolio</a>—I’d love to hear your thoughts! 🥹</p>
 
 ###
 
